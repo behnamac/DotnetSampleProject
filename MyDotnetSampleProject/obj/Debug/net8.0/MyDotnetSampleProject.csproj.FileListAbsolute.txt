@@ -1,0 +1,15 @@
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\bin\Debug\net8.0\MyDotnetSampleProject.exe
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\bin\Debug\net8.0\MyDotnetSampleProject.deps.json
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\bin\Debug\net8.0\MyDotnetSampleProject.runtimeconfig.json
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\bin\Debug\net8.0\MyDotnetSampleProject.dll
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\bin\Debug\net8.0\MyDotnetSampleProject.pdb
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.AssemblyInfoInputs.cache
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.AssemblyInfo.cs
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.csproj.CoreCompileInputs.cache
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.sourcelink.json
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.dll
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\refint\MyDotnetSampleProject.dll
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.pdb
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\MyDotnetSampleProject.genruntimeconfig.cache
+C:\Users\Behnam\Desktop\Dotnet Development\Udemy Ultimate Guide - Beginner to Advanced  Master class\DotnetSampleProject\MyDotnetSampleProject\obj\Debug\net8.0\ref\MyDotnetSampleProject.dll
